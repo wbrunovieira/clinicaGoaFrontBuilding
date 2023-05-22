@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+.first-line {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  background-color: #152c40;
+
+  max-width: 100vha;
+
+  flex: 1;
+}
+
+.container {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+
+  margin: 0 auto;
+
+  width: 1060px;
+}
+
+.first-line-text {
+  color: #fff;
+  font-family: Barlow;
+  font-size: 16px;
+  padding: 8px;
+}
+
+.whatsapp {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+}
+
+
+.
