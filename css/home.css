@@ -242,3 +242,38 @@
   color: #152c40 !important;
   transform: scale(1.1);
 }
+
+.message-title {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+
+  color: #668c14;
+}
+
+.message-title-blue {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  margin-top: 36px;
+
+  color: #152c40;
+}
+
+.container-message {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  gap: 48px;
+
+  margin: 100px auto;
+
+  width: 1060px;
+}
+
+.message-text-box {
+}
